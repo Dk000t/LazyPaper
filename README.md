@@ -7,7 +7,7 @@ With LazyPaper, you can change your desktop wallpaper without manually editing t
 ## Normal Usage
 
 1. Download the LazyPaper binary file.
-2. Move the file in /usr/local/bin/ folder.
+2. Move the file in /usr/local/bin/  folder.
 3. Type "sudo chmod +x /usr/local/bin/LazyPaper".
 4. Run the command "LazyPaper" with the wallpaper you want to set.
 
