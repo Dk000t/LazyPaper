@@ -56,7 +56,7 @@ int main(int argc, char *argv[]) {
     }
 
     if (argc < 2) {
-        printf("You should drag the file into the terminal.\n");
+        printf("\nMissing file, you should provide one.\n");
         fclose(config);
         return EXIT_FAILURE;
     }
