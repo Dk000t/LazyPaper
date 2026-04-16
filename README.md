@@ -17,7 +17,7 @@ sudo chmod +x /usr/local/bin/LazyPaper
 ```
 4. Run the command "LazyPaper" with the wallpaper you want to set.
 
-Example: "LazyPaper /home/ssdj3nt/Images/wallpaper.png"
+Example: "LazyPaper /home/dk000t/Images/wallpaper.png"
 
 LazyPaper streamlines the process of changing wallpapers, making it faster and more convenient.
 
